@@ -1,0 +1,3 @@
+1. I am making a developer conference landing page 2026. I have already made navbar, banner section, speakers section and pricing card section. now I have to complete the landing page with a section of sponsors, venue, FAQ, newsletter signup , hackathon details, past highlights, job board etc. please give me that section plan to complete the landing page.
+
+2. Give me individual section's plans along with code with HTML and CSS.
